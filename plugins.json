@@ -4,7 +4,7 @@
     "name": "Menu Music Pack",
     "version": "1.0.0",
     "creator": "Danilios",
-    "description": "Adds custom menu music.",
+    "description": "Добавляет множество кастомной музыки для главноо меню.",
     "type": "menu_music",
     "icon_url": "https://raw.githubusercontent.com/DetemRamm/PluginsElevatorHorror/main/CustomMusic_icon.png",
     "download_url": "https://raw.githubusercontent.com/DetemRamm/PluginsElevatorHorror/main/CustomMusic.pck"
