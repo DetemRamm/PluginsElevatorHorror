@@ -1,6 +1,7 @@
 [
   {
     "id": "menu_music_pack",
+    "icon": "res://plugins/menu_music_pack/icon.png",
     "name": "Menu Music Pack",
     "version": "1.0.0",
     "creator": "Danilios",
