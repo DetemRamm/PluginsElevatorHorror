@@ -1,13 +1,12 @@
 [
   {
     "id": "menu_music_pack",
-    "icon": "res://plugins/menu_music_pack/icon.png",
     "name": "Menu Music Pack",
     "version": "1.0.0",
     "creator": "Danilios",
-    "description": "Adds custom background music to the menu.",
+    "description": "Adds custom menu music.",
     "type": "menu_music",
-    "download_url": "https://github.com/DetemRamm/PluginsElevatorHorror/raw/refs/heads/main/CustomMusic.pck"
-    "icon_url": "https://raw.githubusercontent.com/DetemRamm/PluginsElevatorHorror/main/CustomMusic_icon.png"
+    "icon_url": "https://raw.githubusercontent.com/DetemRamm/PluginsElevatorHorror/main/CustomMusic_icon.png",
+    "download_url": "https://raw.githubusercontent.com/DetemRamm/PluginsElevatorHorror/main/CustomMusic.pck"
   }
 ]
