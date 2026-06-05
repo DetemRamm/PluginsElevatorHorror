@@ -4,13 +4,8 @@
     "name": "Menu Music Pack",
     "version": "1.0.0",
     "creator": "Danilios",
+    "description": "Adds custom background music to the menu.",
     "type": "menu_music",
-    "files": [
-      {
-        "type": "menu_music",
-        "name": "Dark Forest",
-        "path": "res://plugins/menu_music_pack/music/dark_forest.ogg"
-      }
-    ]
+    "download_url": "https://github.com/USER/REPO/releases/download/v1.0.0/menu_music_pack.pck"
   }
 ]
