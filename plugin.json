@@ -1,1 +1,16 @@
-
+[
+  {
+    "id": "menu_music_pack",
+    "name": "Menu Music Pack",
+    "version": "1.0.0",
+    "creator": "Danilios",
+    "type": "menu_music",
+    "files": [
+      {
+        "type": "menu_music",
+        "name": "Dark Forest",
+        "path": "res://plugins/menu_music_pack/music/dark_forest.ogg"
+      }
+    ]
+  }
+]
