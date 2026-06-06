@@ -8,5 +8,15 @@
     "type": "menu_music",
     "icon_url": "https://raw.githubusercontent.com/DetemRamm/PluginsElevatorHorror/main/CustomMusic_icon.png",
     "download_url": "https://raw.githubusercontent.com/DetemRamm/PluginsElevatorHorror/main/CustomMusic.pck"
+  },
+  {
+    "id": "new_monsters",
+    "name": "New Monsters",
+    "version": "1.0.0",
+    "creator": "DeRamm",
+    "description": "Новые монстры будут преследовать вас на этажах.",
+    "type": "monsters",
+    "icon_url": "https://raw.githubusercontent.com/DetemRamm/PluginsElevatorHorror/main/CustomMusic_icon.png",
+    "download_url": "https://raw.githubusercontent.com/DetemRamm/PluginsElevatorHorror/main/CustomMusic.pck"
   }
 ]
